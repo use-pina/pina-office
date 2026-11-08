@@ -2,7 +2,7 @@
 <h1 align="center">Pina Office</h1>
 <p align="center"><strong>Тихий офис для ИИ-агентов на Windows</strong><br>Codex, Claude Code и Antigravity в одном месте.</p>
 <p align="center"><a href="https://github.com/use-pina/pina-office/releases"><strong>Скачать для Windows</strong></a> · <a href="https://github.com/use-pina/pina-office/issues">Сообщить о проблеме</a></p>
-<p align="center"><sub>Windows 10 (2004+) и Windows 11 · x64 · версия 2.0.1</sub></p>
+<p align="center"><sub>Windows 10 (2004+) и Windows 11 · x64 · версия 2.0.2</sub></p>
 
 ![Офис Pina с рабочими местами агентов](assets/office.png)
 
@@ -64,9 +64,9 @@ Pina показывает, кто работает, где ждут твоего
 - **Заметки по проектам.** Быстрые записи, дневник и хронология работы. Можно сохранить их в Obsidian или локальную папку.
 - **Офис на свой вкус.** Выбери тему, положение панели и горячую клавишу. Включи музыку Pina или управляй системным плеером Windows.
 
-## Что нового в 2.0.1
+## Что нового в 2.0.2
 
-[Pina Office 2.0.1](https://github.com/use-pina/pina-office/releases/tag/v2.0.1) превращает окно команд в удобную рабочую среду: поиск по чатам, меню по правому клику, переименование на месте и аккуратная панель инструментов. Для Claude Code видны настоящие модели аккаунта, например Opus 5.5 и Fable 5.1. Плеер переключается плавно, а кнопки стали компактнее.
+[Pina Office 2.0.2](https://github.com/use-pina/pina-office/releases/tag/v2.0.2) убирает из офиса закрытые сессии Claude Code, чтобы они не копились. В 2.0.x окно команд стало удобной рабочей средой: поиск по чатам, меню по правому клику и переименование на месте. Для Claude Code видны настоящие модели аккаунта, например Opus 5.5 и Fable 5.1.
 
 История всех изменений — на [странице выпусков](https://github.com/use-pina/pina-office/releases).
 
